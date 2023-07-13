@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647143912736",
+    "project_id": "onroadservice-a11e2",
+    "storage_bucket": "onroadservice-a11e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647143912736:android:453fd7599b1524e82f9345",
+        "android_client_info": {
+          "package_name": "com.example.onroadservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647143912736-0nbftds6qm89io2j2vn5jf31h9t4esi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIydWGsG_dWsELoAtJ9WMA4tfOIyGR9cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647143912736-0nbftds6qm89io2j2vn5jf31h9t4esi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
